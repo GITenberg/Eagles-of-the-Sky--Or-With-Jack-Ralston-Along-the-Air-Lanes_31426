@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35220'
     url: http://www.gutenberg.org/2009/agents/35220
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31426#Eagles-of-the-Sky--Or-With-Jack-Ralston-Along-the-Air-Lanes
 gutenberg_issued: '2010-02-27'
 gutenberg_type: Text
 identifiers:
